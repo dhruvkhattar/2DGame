@@ -1,4 +1,4 @@
-Angry Birds like 2D Game in Opengl(GLFW)
+2D Game Projectile in Opengl(GLFW)
 =================
 
 ### How to compile:
